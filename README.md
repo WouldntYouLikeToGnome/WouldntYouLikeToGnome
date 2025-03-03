@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @WouldntYouLikeToGnome
 - 👀 I’m the creator of Mystery Boxes and Amy Hates Robots.
 - 📫 You can reach me on X at @wyltgnome or via contact@roguerobin.com
-- ⚡ Fun fact: ...
 
 <!---
 WouldntYouLikeToGnome/WouldntYouLikeToGnome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
